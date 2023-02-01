@@ -19,6 +19,8 @@ The first random walker is a simple walker that uses a walker class to walk from
 The Second random walker is my attemped at creating a maze generator. Like Bostocks visualization of Wilson's algorithm, the random walker spreads out across the canvas. When the walker runs into itself (back to a path it has already taken) it turns white. While it is "exploring new territory, it is red. Unlike a maze generator, this turns out to make a full grid. 
 
 <p>&nbsp;</p>
+
 [random walker 2](https://editor.p5js.org/gracywhelihan/sketches/gEWERp0sP)
+
 <img width="400" alt="Screen Shot 2023-01-30 at 4 12 03 PM" src="https://user-images.githubusercontent.com/76453899/216093658-a79501d7-edbf-4ff1-b35b-04628f3b5d61.png">
 <img width="400" alt="Screen Shot 2023-01-31 at 8 56 01 AM" src="https://user-images.githubusercontent.com/76453899/216093670-a67ee0de-1b68-4ae5-84ca-4e4b0dc1f7a3.png">
