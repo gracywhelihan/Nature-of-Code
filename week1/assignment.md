@@ -16,7 +16,12 @@ The first random walker is a simple walker that uses a walker class to walk from
 <img width="401" alt="Screen Shot 2023-01-29 at 3 14 26 PM" src="https://user-images.githubusercontent.com/76453899/216093705-793dc323-f910-45db-a7d1-9c5764116192.png">
 
 <p>&nbsp;</p>
-The Second random walker is my attemped at creating a maze generator. Like Bostocks visualization of Wilson's algorithm, the random walker spreads out across the canvas. When the walker runs into itself (back to a path it has already taken) it turns white. While it is "exploring new territory, it is red. Unlike a maze generator, this turns out to make a full grid. 
+The Second random walker is my attemped at creating a maze generator. Like Bostocks visualization of Wilson's algorithm, the random walker spreads out across the canvas. When the walker runs into itself (back to a path it has already taken) it turns white. While it is "exploring new territory, it is red. Unlike a maze generator, this turns out to make a full grid ¯\_(ツ)_/¯
+
+The way I went about it was to create a class of walkers that are ellipses each "step" and ellipse is added to the walkers array. Then the lines are drawn between each ellipses using beginShaper() endShape() and a loop that loops throught each of the walker points. 
+This Sketch still has a long way to go to give it more of a maze generation look. 
+
+
 
 <p>&nbsp;</p>
 
