@@ -24,3 +24,5 @@ The Second random walker is my attemped at creating a maze generator. Like Bosto
 
 <img width="400" alt="Screen Shot 2023-01-30 at 4 12 03 PM" src="https://user-images.githubusercontent.com/76453899/216093658-a79501d7-edbf-4ff1-b35b-04628f3b5d61.png">
 <img width="400" alt="Screen Shot 2023-01-31 at 8 56 01 AM" src="https://user-images.githubusercontent.com/76453899/216093670-a67ee0de-1b68-4ae5-84ca-4e4b0dc1f7a3.png">
+
+[random walker 2 noise](https://editor.p5js.org/gracywhelihan/sketches/hYAgbOjS5)
