@@ -10,7 +10,7 @@ I added in a Ones class and a Zeros class and then applied the velocity to each 
 
 To make the ones and zeros look more like the matrix I changed the velocity vector to be this.vel = createVector(0, random(-5, 5). I then thought it would be nice to add a little smiley face that was floating around in the matrix that accelerates towards the mouse. 
 
-[emotional in the matrix](https://editor.p5js.org/gracywhelihan/sketches/L0PHLwwpY)
+[emotional in the matrix](https://editor.p5js.org/gracywhelihan/sketches/L0PHLwwpY) --> This has been updated
 
 <img width="568" alt="Screen Shot 2023-02-08 at 10 43 55 PM" src="https://user-images.githubusercontent.com/76453899/217714792-9dcbeb0d-d800-438e-b529-4ffd5b2292ef.png">
 
