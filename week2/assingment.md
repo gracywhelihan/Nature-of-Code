@@ -1,4 +1,4 @@
-# Vectors
+# Vectors - emotional in the matrix
 
 I will say that I think irl vector math makes a lot of sense, but when I am adding velocity and acceleration in p5 I really have to think about it. But it is very cool to be able to make vectors because I am starting to see the power and flexablity they give you within your sketch. 
 I started off just seeing if I could create some vectors and make them move randomly around that canvas. When creating a vector for each object like this.pos = createVector(random(-1, 1), random(-5,5)) all of my objects would fly off in different directions. Which was cool, so I then thought I would change the objects to be lines. This really made me think of the Matrix. 
