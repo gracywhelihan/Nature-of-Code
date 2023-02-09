@@ -20,3 +20,7 @@ I did notice that the smiley accelerates towards the mouse, but when the mouse g
 
 <br></br>
 I think it would be cute to add some more smiley faces that could bump into each other and maybe some hearts to fly off of them when they bump into each other. I feel like there are some many possiblities here and because I am still trying to understand exactly how changing each vector effects the whole behavior of the object I want to try a bunch of things out. 
+
+## update
+I added Neo and the hearts There are still some small glitches to figure out but it is fun! I also could stoop the smiley from bouncing around when it gets to neo using lerp()!!!  ¯\_(ツ)_/¯ 
+
