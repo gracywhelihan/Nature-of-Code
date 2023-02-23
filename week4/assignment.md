@@ -14,3 +14,4 @@ Anyways, I started off creating a swirl class and it took me way too long to fig
 There is so much more I wanted to do, but time kind of got awayfom me this week so I didn't get much done :( I really wanted to play around with spring forces, but at the time that I am writing this I don't think I will have time. 
 
  
+[Here](https://editor.p5js.org/gracywhelihan/sketches/rc9Yk8JyZ) is a spring string!
