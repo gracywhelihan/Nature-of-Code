@@ -8,4 +8,4 @@
 
 Collisions:
 - collision detection --> are they touching?
-- 
+- collision resolution --> what happens after?
