@@ -11,6 +11,9 @@ I started out by making pngs of 4 different pasta shapes. As I was making the pn
 I think CA and fractals are super cool. The idea of recursion is really interesting and really brings me back to calc 2 and working with sequences and series. If I had more time I would probably see if I could turn the pasta into the game of life, that could be fun. It also might hurt your eyes.
 It could also be cool to try to incorporate all 4 of the pasta shapes with some rules, but my brain hurt from thinking so much this week that I couldnt do it. 
 
+Oh also I would like to add in an infinite scroll, but I didn't do it here because I figured the images would make the sketch really laggy, but now that I am thinking about it, all I would need to do is delete the arrays that are no longer on the canvas. 
+
+
 <img width="1310" alt="Screen Shot 2023-04-06 at 10 53 59 AM" src="https://user-images.githubusercontent.com/76453899/230418700-9bff2688-f55a-4aed-9912-77ed0d51be49.png">
 
 
