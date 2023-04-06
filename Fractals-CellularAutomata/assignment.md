@@ -3,7 +3,9 @@
 This week I have really had pasta on the brain, so I decided to make a CA with pasta shapes:
 
 [pasta CA random](https://editor.p5js.org/gracywhelihan/sketches/kWIPz6o-N)
+
 [pasta CA mouse](https://editor.p5js.org/gracywhelihan/sketches/4p4LsGnrs)
+
 [pasta CA noise](https://editor.p5js.org/gracywhelihan/sketches/WGvEkuUhe)
 
 I started out by making pngs of 4 different pasta shapes. As I was making the pngs I thought to myself that the pasta shapes kind of looked like vectors. So I thought it might be kind of cool to make a CA pasta vector field. I made each image into an object and started playing around with the angles.
